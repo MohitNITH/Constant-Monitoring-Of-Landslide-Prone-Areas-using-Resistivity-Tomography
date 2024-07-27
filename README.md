@@ -1,8 +1,5 @@
-Sure! Here's a concise summary for your GitHub README:
 
----
-
-## Electrical Resistivity Tomography and Landslide Alert System[^1^][1]
+## Electrical Resistivity Tomography and Landslide Alert System
 
 **Authors**: Mohit Choudhary, Abhishek Duharia
 
