@@ -33,8 +33,7 @@ This project presents an innovative and cost-effective multi-electrode resistivi
 ---
 
 ## Circuit Diagram
-![Circuit Diagram](path/to/circuit-diagram.png)  
-*(Include the file path or upload the diagram in the repository)*
+![Circuit Diagram](circuit_image.png)  
 
 ---
 
